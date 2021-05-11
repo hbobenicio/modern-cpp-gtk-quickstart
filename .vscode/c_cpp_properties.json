@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "name": "modern-cpp-gtk-quickstart",
+            "compileCommands": "${workspaceFolder}/builddir/compile_commands.json"
+        }
+    ],
+    "version": 4
+}

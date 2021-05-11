@@ -1,3 +1,7 @@
+/**/build/
+/**/builddir/
+/**/venv/
+
 # Prerequisites
 *.d
 
@@ -30,3 +34,4 @@
 *.exe
 *.out
 *.app
+/**/a.out
